@@ -1,0 +1,30 @@
+html
+{
+    font-family: 'Architects Daughter', cursive;
+background: black;
+color: white;
+}
+h1
+{
+    font-size: 1rem;
+    text-transform: capitalize;
+}
+.poster
+{
+  font-family: 'Architects Daughter', cursive;
+  margin-top: 10px;
+  width: 50%;
+  margin-left: 25%;
+  color: white;
+  text-align: center;
+}
+.imager
+{
+  width: 100%;    
+  border: 1px solid white;
+}
+.blue
+{
+    color: purple;
+    
+}
